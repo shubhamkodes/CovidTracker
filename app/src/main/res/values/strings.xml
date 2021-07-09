@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CovidTracker</string>
+    <string name="refreshing">Refreshing...</string>
+    <string name="zero">( +0 )</string>
+</resources>
