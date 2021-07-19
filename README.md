@@ -1,3 +1,4 @@
+
 # CovidTracker
 
 * Based on MVVM Architecture
@@ -11,13 +12,8 @@ Covid Api : https://corona.lmao.ninja/v2/countries
       - Death
       - Recovered
       - Tests
-      
-![screenshotAllCountries](https://user-images.githubusercontent.com/50069977/125077067-4c284080-e0de-11eb-86c1-c1092b830bad.png)
-      
-![screenMain](https://user-images.githubusercontent.com/50069977/125077073-4e8a9a80-e0de-11eb-9b42-a46a07675318.png)
-      
-      
-App Demo Video : https://user-images.githubusercontent.com/50069977/125077078-4fbbc780-e0de-11eb-8371-dc4b5d6336c7.mp4
-    
+
+      ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/50069977/126110204-42c135fe-f570-4aaf-b976-0a9580eee2b1.gif)
+
  
       
