@@ -13,7 +13,7 @@ Covid Api : https://corona.lmao.ninja/v2/countries
       - Recovered
       - Tests
 
-      ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/50069977/126110204-42c135fe-f570-4aaf-b976-0a9580eee2b1.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/50069977/126110204-42c135fe-f570-4aaf-b976-0a9580eee2b1.gif)
 
  
       
